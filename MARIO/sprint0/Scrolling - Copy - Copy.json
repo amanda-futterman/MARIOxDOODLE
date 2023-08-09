@@ -1,0 +1,3087 @@
+[
+  {
+    "Name": "Level1",
+    "Checkpoints": [ 700, 4700 ],
+    "Bound": 5325,
+    "Layers": [
+      {
+        "Name": "Foreground",
+        "Parallax": 1,
+        "Z": -2,
+        "Entities": [
+          {
+            "Type": 1,
+            "Xpos": 100,
+            "Ypos": 100
+          },
+
+          {
+            "Type": 2,
+            "Xpos": 0,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 0,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 25,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 25,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 50,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 50,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 75,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 75,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 100,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 100,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 125,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 125,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 150,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 150,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 175,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 175,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 200,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 200,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 225,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 225,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 250,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 250,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 275,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 275,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 300,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 300,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 325,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 325,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 350,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 350,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 375,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 375,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 400,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 400,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 425,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 425,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 450,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 450,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 475,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 475,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 500,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 500,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 525,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 525,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 550,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 550,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 575,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 575,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 600,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 600,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 625,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 625,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 650,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 650,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 675,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 675,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 700,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 700,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 725,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 725,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 750,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 750,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 775,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 775,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 800,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 800,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 825,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 825,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 850,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 850,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 875,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 875,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 900,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 900,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 925,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 925,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 950,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 950,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 975,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 975,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1000,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1000,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1025,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1025,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1050,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1050,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1075,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1075,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1100,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1100,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1125,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1125,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1150,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1150,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1175,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1175,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1200,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1200,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1225,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1225,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1250,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1250,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1275,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1275,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1300,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1300,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1325,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1325,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1350,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1350,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1375,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1375,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1400,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1400,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1425,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1425,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1500,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1500,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1525,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1525,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1550,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1550,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1575,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1575,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1600,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1600,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1625,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1625,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1650,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1650,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1675,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1675,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1700,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1700,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1725,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1725,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1750,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1750,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1775,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1775,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1800,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1800,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1825,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1825,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1850,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1850,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1950,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1950,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 1975,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 1975,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2000,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2000,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2025,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2025,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2050,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2050,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2075,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2075,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2100,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2100,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2125,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2125,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2150,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2150,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2175,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2175,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2200,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2200,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2225,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2225,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2250,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2250,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2275,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2275,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2300,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2300,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2325,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2325,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2350,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2350,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2375,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2375,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2400,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2400,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2425,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2425,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2450,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2450,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2475,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2475,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2500,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2500,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2525,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2525,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2550,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2550,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2575,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2575,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2600,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2600,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2625,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2625,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2650,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2650,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2675,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2675,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2700,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2700,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2725,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2725,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2750,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2750,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2775,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2775,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2800,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2800,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2825,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2825,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2850,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2850,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2875,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2875,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2900,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2900,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2925,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2925,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2950,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2950,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 2975,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 2975,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3000,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3000,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3025,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3025,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3050,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3050,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3075,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3075,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3100,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3100,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3125,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3125,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3150,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3150,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3175,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3175,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3200,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3200,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3225,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3225,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3250,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3250,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3275,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3275,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3300,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3300,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3325,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3325,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3350,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3350,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3375,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3375,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3400,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3400,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3425,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3425,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3450,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3450,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3475,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3475,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3500,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3500,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3525,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3525,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3550,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3550,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3625,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3625,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3650,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3650,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3675,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3675,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3700,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3700,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3725,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3725,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3750,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3750,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3775,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3775,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3800,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3800,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3825,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3825,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3850,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3850,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3875,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3875,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3900,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3900,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3925,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3925,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3950,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3950,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 3975,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 3975,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4000,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4000,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4025,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4025,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4050,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4050,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4075,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4075,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4100,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4100,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4125,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4125,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4150,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4150,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4175,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4175,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4200,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4200,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4225,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4225,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4250,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4250,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4275,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4275,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4300,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4300,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4325,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4325,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4350,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4350,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4375,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4375,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4400,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4400,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4425,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4425,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4450,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4450,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4475,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4475,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4500,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4500,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4525,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4525,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4550,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4550,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4575,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4575,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4600,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4600,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4625,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4625,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4650,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4650,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4675,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4675,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4700,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4700,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4725,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4725,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4750,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4750,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4775,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4775,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4800,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4800,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4825,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4825,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4850,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4850,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4875,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4875,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4900,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4900,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4925,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4925,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4950,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4950,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 4975,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 4975,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5000,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5000,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5025,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5025,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5050,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5050,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5075,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5075,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5100,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5100,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5125,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5125,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5150,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5150,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5175,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5175,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5200,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5200,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5225,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5225,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5250,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5250,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5275,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5275,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5300,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5300,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5325,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5325,
+            "Ypos": 433
+          },
+          {
+            "Type": 2,
+            "Xpos": 5350,
+            "Ypos": 458
+          },
+          {
+            "Type": 2,
+            "Xpos": 5350,
+            "Ypos": 433
+          },
+
+          {
+            "Type": 9,
+            "Xpos": 200,
+            "Ypos": 400
+          },
+          {
+            "Type": 4,
+            "Xpos": 425,
+            "Ypos": 333,
+            "Items": [
+              {
+                "ItemType": 12
+              }
+            ]
+          },
+          {
+            "Type": 6,
+            "Xpos": 475,
+            "Ypos": 333
+          },
+          {
+            "Type": 5,
+            "Xpos": 500,
+            "Ypos": 333,
+            "Items": [
+              {
+                "ItemType": 15
+              }
+            ]
+          },
+          {
+            "Type": 4,
+            "Xpos": 525,
+            "Ypos": 333,
+            "Items": [
+              {
+                "ItemType": 14
+              }
+            ]
+          },
+          {
+            "Type": 5,
+            "Xpos": 550,
+            "Ypos": 333,
+            "Items": [
+              {
+                "ItemType": 13
+              }
+            ]
+          },
+          {
+            "Type": 4,
+            "Xpos": 550,
+            "Ypos": 233,
+            "Items": [
+              {
+                "ItemType": 11
+              }
+            ]
+          },
+          {
+            "Type": 10,
+            "Xpos": 550,
+            "Ypos": 408
+          },
+          {
+            "Type": 4,
+            "Xpos": 575,
+            "Ypos": 333,
+            "Items": [
+              {
+                "ItemType": 11
+              }
+            ]
+          },
+          {
+            "Type": 18,
+            "Xpos": 700,
+            "Ypos": 383
+          },
+          {
+            "Type": 5,
+            "Xpos": 600,
+            "Ypos": 333
+          },
+          {
+            "Type": 20,
+            "Xpos": 950,
+            "Ypos": 408
+          },
+          {
+            "Type": 18,
+            "Xpos": 950,
+            "Ypos": 358
+          },
+          {
+            "Type": 8,
+            "Xpos": 800,
+            "Ypos": 400
+          },
+          {
+            "Type": 9,
+            "Xpos": 1095,
+            "Ypos": 400
+          },
+          {
+            "Type": 20,
+            "Xpos": 1150,
+            "Ypos": 408
+          },
+          {
+            "Type": 20,
+            "Xpos": 1150,
+            "Ypos": 383
+          },
+          {
+            "Type": 18,
+            "Xpos": 1150,
+            "Ypos": 333
+          },
+          {
+            "Type": 6,
+            "Xpos": 1325,
+            "Ypos": 308,
+            "Items": [
+              {
+                "ItemType": 14
+              }
+            ]
+          },
+          {
+            "Type": 5,
+            "Xpos": 1650,
+            "Ypos": 333
+          },
+          {
+            "Type": 4,
+            "Xpos": 1675,
+            "Ypos": 333,
+            "Items": [
+              {
+                "ItemType": 14
+              }
+            ]
+          },
+          {
+            "Type": 5,
+            "Xpos": 1700,
+            "Ypos": 333
+          },
+          {
+            "Type": 5,
+            "Xpos": 1725,
+            "Ypos": 233
+          },
+          {
+            "Type": 10,
+            "Xpos": 1725,
+            "Ypos": 208
+          },
+          {
+            "Type": 5,
+            "Xpos": 1750,
+            "Ypos": 233
+          },
+          {
+            "Type": 5,
+            "Xpos": 1775,
+            "Ypos": 233
+          },
+          {
+            "Type": 10,
+            "Xpos": 1775,
+            "Ypos": 208
+          },
+          {
+            "Type": 5,
+            "Xpos": 1800,
+            "Ypos": 233
+          },
+          {
+            "Type": 5,
+            "Xpos": 1825,
+            "Ypos": 233
+          },
+          {
+            "Type": 5,
+            "Xpos": 1850,
+            "Ypos": 233
+          },
+          {
+            "Type": 5,
+            "Xpos": 1875,
+            "Ypos": 233
+          },
+          {
+            "Type": 5,
+            "Xpos": 1900,
+            "Ypos": 233
+          },
+          {
+            "Type": 5,
+            "Xpos": 1925,
+            "Ypos": 233
+          },
+          {
+            "Type": 5,
+            "Xpos": 2025,
+            "Ypos": 233
+          },
+          {
+            "Type": 5,
+            "Xpos": 2050,
+            "Ypos": 233
+          },
+          {
+            "Type": 5,
+            "Xpos": 2075,
+            "Ypos": 233
+          },
+          {
+            "Type": 4,
+            "Xpos": 2100,
+            "Ypos": 233,
+            "Items": [
+              {
+                "ItemType": 11
+              }
+            ]
+          },
+          {
+            "Type": 5,
+            "Xpos": 2100,
+            "Ypos": 333,
+            "Items": [
+              {
+                "ItemType": 11
+              },
+              {
+                "ItemType": 11
+              },
+              {
+                "ItemType": 11
+              },
+              {
+                "ItemType": 11
+              },
+              {
+                "ItemType": 11
+              }
+            ]
+          },
+          {
+            "Type": 10,
+            "Xpos": 2175,
+            "Ypos": 408
+          },
+          {
+            "Type": 10,
+            "Xpos": 2225,
+            "Ypos": 408
+          },
+          {
+            "Type": 5,
+            "Xpos": 2275,
+            "Ypos": 333
+          },
+          {
+            "Type": 4,
+            "Xpos": 2400,
+            "Ypos": 333,
+            "Items": [
+              {
+                "ItemType": 11
+              }
+            ]
+          },
+          {
+            "Type": 5,
+            "Xpos": 2250,
+            "Ypos": 333,
+            "Items": [
+              {
+                "ItemType": 15
+              }
+            ]
+          },
+          {
+            "Type": 3,
+            "Xpos": 2500,
+            "Ypos": 408
+          },
+          {
+            "Type": 9,
+            "Xpos": 2355,
+            "Ypos": 403
+          },
+          {
+            "Type": 4,
+            "Xpos": 2475,
+            "Ypos": 333,
+            "Items": [
+              {
+                "ItemType": 11
+              }
+            ]
+          },
+          {
+            "Type": 5,
+            "Xpos": 2475,
+            "Ypos": 233,
+            "Items": [
+              {
+                "ItemType": 14
+              }
+            ]
+          },
+          {
+            "Type": 4,
+            "Xpos": 2550,
+            "Ypos": 333,
+            "Items": [
+              {
+                "ItemType": 11
+              }
+            ]
+          },
+          {
+            "Type": 10,
+            "Xpos": 2600,
+            "Ypos": 408
+          },
+          {
+            "Type": 10,
+            "Xpos": 2650,
+            "Ypos": 408
+          },
+          {
+            "Type": 5,
+            "Xpos": 2700,
+            "Ypos": 333
+          },
+          {
+            "Type": 5,
+            "Xpos": 2775,
+            "Ypos": 233
+          },
+          {
+            "Type": 5,
+            "Xpos": 2800,
+            "Ypos": 233
+          },
+          {
+            "Type": 5,
+            "Xpos": 2825,
+            "Ypos": 233
+          },
+          {
+            "Type": 10,
+            "Xpos": 2850,
+            "Ypos": 408
+          },
+          {
+            "Type": 10,
+            "Xpos": 2875,
+            "Ypos": 408
+          },
+          {
+            "Type": 5,
+            "Xpos": 2925,
+            "Ypos": 233
+          },
+          {
+            "Type": 4,
+            "Xpos": 2950,
+            "Ypos": 233,
+            "Items": [
+              {
+                "ItemType": 11
+              }
+            ]
+          },
+          {
+            "Type": 4,
+            "Xpos": 2975,
+            "Ypos": 233,
+            "Items": [
+              {
+                "ItemType": 11
+              }
+            ]
+          },
+          {
+            "Type": 5,
+            "Xpos": 3000,
+            "Ypos": 233
+          },
+          {
+            "Type": 5,
+            "Xpos": 2950,
+            "Ypos": 333
+          },
+          {
+            "Type": 5,
+            "Xpos": 2975,
+            "Ypos": 333
+          },
+          {
+            "Type": 10,
+            "Xpos": 2925,
+            "Ypos": 408
+          },
+          {
+            "Type": 10,
+            "Xpos": 2950,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3075,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3100,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3100,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 3125,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3125,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 3125,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 3150,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3150,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 3150,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 3150,
+            "Ypos": 333
+          },
+
+
+
+          {
+            "Type": 3,
+            "Xpos": 3225,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3225,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 3225,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 3225,
+            "Ypos": 333
+          },
+          {
+            "Type": 3,
+            "Xpos": 3250,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3250,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 3250,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 3275,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3275,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 3300,
+            "Ypos": 408
+          },
+
+
+          {
+            "Type": 3,
+            "Xpos": 3450,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3475,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3475,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 3500,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3500,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 3500,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 3525,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3525,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 3525,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 3525,
+            "Ypos": 333
+          },
+          {
+            "Type": 3,
+            "Xpos": 3550,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3550,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 3550,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 3550,
+            "Ypos": 333
+          },
+
+
+
+
+
+
+
+          {
+            "Type": 3,
+            "Xpos": 3625,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3625,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 3625,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 3625,
+            "Ypos": 333
+          },
+          {
+            "Type": 3,
+            "Xpos": 3650,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3650,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 3650,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 3675,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 3675,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 3700,
+            "Ypos": 408
+          },
+
+          {
+            "Type": 18,
+            "Xpos": 3825,
+            "Ypos": 383
+          },
+          {
+            "Type": 5,
+            "Xpos": 3950,
+            "Ypos": 333
+          },
+          {
+            "Type": 5,
+            "Xpos": 3975,
+            "Ypos": 333
+          },
+          {
+            "Type": 4,
+            "Xpos": 4000,
+            "Ypos": 333,
+            "Items": [
+              {
+                "ItemType": 11
+              }
+            ]
+          },
+          {
+            "Type": 5,
+            "Xpos": 4025,
+            "Ypos": 333
+          },
+
+          {
+            "Type": 10,
+            "Xpos": 4100,
+            "Ypos": 408
+          },
+          {
+            "Type": 10,
+            "Xpos": 4150,
+            "Ypos": 408
+          },
+          {
+            "Type": 18,
+            "Xpos": 4225,
+            "Ypos": 383
+          },
+
+
+
+
+          {
+            "Type": 3,
+            "Xpos": 4275,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 4300,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 4300,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 4325,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 4325,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 4325,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 4350,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 4350,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 4350,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 4350,
+            "Ypos": 333
+          },
+          {
+            "Type": 3,
+            "Xpos": 4375,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 4375,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 4375,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 4375,
+            "Ypos": 333
+          },
+          {
+            "Type": 3,
+            "Xpos": 4375,
+            "Ypos": 308
+          },
+
+
+
+          {
+            "Type": 3,
+            "Xpos": 4400,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 4400,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 4400,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 4400,
+            "Ypos": 333
+          },
+          {
+            "Type": 3,
+            "Xpos": 4400,
+            "Ypos": 308
+          },
+          {
+            "Type": 3,
+            "Xpos": 4400,
+            "Ypos": 283
+          },
+
+
+
+          {
+            "Type": 3,
+            "Xpos": 4425,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 4425,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 4425,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 4425,
+            "Ypos": 333
+          },
+          {
+            "Type": 3,
+            "Xpos": 4425,
+            "Ypos": 308
+          },
+          {
+            "Type": 3,
+            "Xpos": 4425,
+            "Ypos": 283
+          },
+          {
+            "Type": 3,
+            "Xpos": 4425,
+            "Ypos": 258
+          },
+
+
+
+
+          {
+            "Type": 3,
+            "Xpos": 4450,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 4450,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 4450,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 4450,
+            "Ypos": 333
+          },
+          {
+            "Type": 3,
+            "Xpos": 4450,
+            "Ypos": 308
+          },
+          {
+            "Type": 3,
+            "Xpos": 4450,
+            "Ypos": 283
+          },
+          {
+            "Type": 3,
+            "Xpos": 4450,
+            "Ypos": 258
+          },
+          {
+            "Type": 3,
+            "Xpos": 4450,
+            "Ypos": 233
+          },
+
+
+
+
+
+          {
+            "Type": 3,
+            "Xpos": 4475,
+            "Ypos": 408
+          },
+          {
+            "Type": 3,
+            "Xpos": 4475,
+            "Ypos": 383
+          },
+          {
+            "Type": 3,
+            "Xpos": 4475,
+            "Ypos": 358
+          },
+          {
+            "Type": 3,
+            "Xpos": 4475,
+            "Ypos": 333
+          },
+          {
+            "Type": 3,
+            "Xpos": 4475,
+            "Ypos": 308
+          },
+          {
+            "Type": 3,
+            "Xpos": 4475,
+            "Ypos": 283
+          },
+          {
+            "Type": 3,
+            "Xpos": 4475,
+            "Ypos": 258
+          },
+          {
+            "Type": 3,
+            "Xpos": 4475,
+            "Ypos": 233
+          },
+          {
+            "Type": 17,
+            "Xpos": 4700,
+            "Ypos": 183
+          },
+          {
+            "Type": 19,
+            "Xpos": 4800,
+            "Ypos": 308
+          }
+
+        ]
+      },
+      {
+        "Name": "Clouds",
+        "Parallax": 0.8,
+        "Z": -2,
+        "Entities": [
+          {
+          }
+        ]
+      },
+      {
+        "Name": "Bushes",
+        "Parallax": 0.6,
+        "Z": -2,
+        "Entities": [
+          {
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Level1CoinRoom",
+    "Checkpoints": [400],
+    "Bound": 1000,
+    "Layers": [
+      {
+        "Name": "Foreground",
+        "Entities": [
+          {
+            "Type": 1,
+            "Xpos": 100,
+            "Ypos": 200
+          }
+        ]
+       }
+     ]
+   }
+ ]
+  
+
+
