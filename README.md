@@ -1,5 +1,5 @@
 # MARIOxDOODLE
-Executable files for my junior year Software Development project on a team of 5 other student software developers
+Executable files for my junior year Software Development project on a team of 4 other student software developers
 
 Sprints 0-5: Mario Bros Level 1-1
 Sprint 6: Doodle Mario
